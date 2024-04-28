@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+LlamaClicker/.vs/LlamaClicker/v16/Server/sqlite3/storage.ide-wal
+LlamaClicker/.vs/LlamaClicker/v16/Server/sqlite3/storage.ide-shm
+LlamaClicker/.vs/LlamaClicker/v16/Server/sqlite3/storage.ide
+LlamaClicker/.vs/LlamaClicker/v16/Server/sqlite3/db.lock
+.vs/slnx.sqlite
